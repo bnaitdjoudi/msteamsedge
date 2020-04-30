@@ -1,0 +1,37 @@
+
+
+"channelId":"19:d5222447cb3a4b2285ea875314cd7847@thread.tacv2" brave
+"channelId":"19:d5222447cb3a4b2285ea875314cd7847@thread.tacv2" teams
+"channelId":"19:ef7d88e0a1f74efcac09e4a2c7932863@thread.tacv2"
+"channelId":"19:d5222447cb3a4b2285ea875314cd7847@thread.tacv2" firefox
+
+refechissement:no
+fermeture:no
+logout:no
+
+"sessionId":"c0fb44c5-8302-005e-8e4e-afc7253727c0" brave
+"sessionId":"de2ca447-9099-3741-4d50-6f40ed69ca5f" teams
+"sessionId":"f91e536f-b9f5-cd30-37a3-6787779aa058" firefox
+chaque user à sa propre sessionId
+refechissement:no
+fermeture:yes
+
+"appSessionId":"628d1e5e-399f-4afb-9322-5b8f0357c314" brave
+no    teams
+"appSessionId":"f540e8f9-996c-485e-b144-da2c59927f4e" firefox
+
+
+"tid":"e8c272bd-8fa1-40cc-9520-a07d93a564aa" brave
+"tid":"e8c272bd-8fa1-40cc-9520-a07d93a564aa" teams
+"tid":"e8c272bd-8fa1-40cc-9520-a07d93a564aa
+"tid":"e8c272bd-8fa1-40cc-9520-a07d93a564aa" firefox
+
+
+"userObjectId":"22fd63e8-1f83-4c4d-bb07-6604d6ab0738" brave
+"userObjectId":"39857392-d32f-47d8-8c8e-d3fb648ca213" teams
+"userObjectId":"39857392-d32f-47d8-8c8e-d3fb648ca213"
+"userObjectId":"27bf6fea-3407-4fa0-a169-798a8f5832cb" firefox
+chaque utilisateur à sont propre userObjectId
+refechissement:no
+fermeture:no
+logout:no

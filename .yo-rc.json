@@ -1,0 +1,11 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "brahim",
+      "unitTestsEnabled": true,
+      "useAzureAppInsights": false
+    },
+    "libraryName": "msteamsrh1",
+    "generator-version": "2.13.0"
+  }
+}
